@@ -1,4 +1,4 @@
-# UGACadathon26
+ # UGACadathon26
 
 *STEP file is in folder above.
 
@@ -10,11 +10,11 @@ We wanted to mainly explore whether the connection to that bar could adapt mecha
 
 Our inspiration came from research on **countersnapping structures**: elastic networks that can suddenly contract under increasing tension. Researchers demonstrated that these networks can switch between configurations with different stiffnesses and, in laboratory experiments, passively escape resonance. We then asked: **could this behavior be applicable/incorporated into an automotive suspension?**
 
-## What Our Project Does
+## What Our Project Doesx
 
 Our concept replaces a conventional anti-roll-bar end link with a **countersnapping mechanism**, integrated into a MacPherson suspension assembly.
 
-Suspension-induced loading can trigger a change in the mechanism’s internal configuration. This changes its tangent stiffness—the resistance it provides to small additional movements:
+Suspension-induced loading can trigger a change in the mechanism’s internal configuration. This changes its tangent stiffness, which is the resistance it provides to small additional movements:
 
 $$
 k_t=\frac{dF}{du}
