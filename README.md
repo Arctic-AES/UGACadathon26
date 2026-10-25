@@ -10,7 +10,7 @@ We wanted to mainly explore whether the connection to that bar could adapt mecha
 
 Our inspiration came from research on **countersnapping structures**: elastic networks that can suddenly contract under increasing tension. Researchers demonstrated that these networks can switch between configurations with different stiffnesses and, in laboratory experiments, passively escape resonance. We then asked: **could this behavior be applicable/incorporated into an automotive suspension?**
 
-## What Our Project Doesx
+## What Our Project Does
 
 Our concept replaces a conventional anti-roll-bar end link with a **countersnapping mechanism**, integrated into a MacPherson suspension assembly.
 
@@ -40,7 +40,7 @@ The elastic network combines five functional elements:
 
 We developed CAD models of the mechanism, connectors, and integration into a right-front MacPherson suspension assembly. Assembly views, cross-sections, and exploded drawings helped us examine packaging and explain the internal load paths.
 
-For the proposed metallic mechanism, we selected **17-7 PH stainless spring strip in condition CH900** as our initial material candidate. Computational validation would have to remain the next stage; nonlinear structural analysis will characterize the mechanism, followed by MATLAB/Simulink evaluation of its suspension response.
+For the proposed metallic mechanism, we selected **17-7 PH stainless spring strip in condition CH900** as our initial material candidate. Computational validation would have to remain the next stage (if it were to be continued as a project); nonlinear structural analysis will characterize the mechanism, followed by MATLAB/Simulink evaluation of its suspension response.
 
 ## What We Learned
 
@@ -48,15 +48,21 @@ We learned that adaptive mechanical behavior can come from geometry rather than 
 
 We also learned that stiffness switching and damping perform different roles. Our mechanism changes elastic resistance; the existing shock absorber remains responsible for dissipating energy.
 
-Most importantly, a promising material behavior must be evaluated within the complete system. A large stiffness change inside the cartridge may produce a smaller change in the suspension because the anti-roll bar and surrounding components also contribute compliance.
+Most importantly, a promising material behavior must be evaluated within the complete system. A large stiffness change inside the cartridge may produce a smaller change in the suspension because the anti-roll bar and surrounding components also contribute compliance/support.
 
 ## Challenges We Faced
 
-Our biggest challenge was translating a laboratory mechanism into a realistic suspension connection. Packaging, articulation, load direction, and available travel all affect whether the mechanism can switch as intended.
+Our biggest challenge was translating a laboratory mechanism into a realistic suspension connection. Packaging, articulation, load direction, and available travel all affect whether the mechanism can switch as intended. Additionally implementing a new mechanical system to one that exists already proved to be a bit difficult as well.
 
-Tension and compression also require separate evaluation. A mechanism that countersnaps under tension cannot automatically be assumed to behave identically under compression.
+The result is a research-driven CAD design with a question to test that: **can passive countersnapping provide useful adaptive stiffness in an automotive application for suspension end links?**
 
-We approached these challenges by defining a focused integration concept and a validation path. The result is a research-driven CAD design with a clear question to test: **can passive countersnapping provide useful adaptive stiffness in an automotive application for suspension end links?**
+Ducarme, P., Weber, B., van Hecke, M., & Overvelde, J. T. B. (2025). Exotic mechanical properties enabled by countersnapping instabilities. Proceedings of the National Academy of Sciences, 122(16), e2423301122. https://doi.org/10.1073/pnas.2423301122​
 
+Ranjan, P. S., Sharma, H., Yang, S., & Yang, J. (2025). Passive vibration isolation characteristics of negative extensibility metamaterials. Extreme Mechanics Letters, 80, 102404. https://doi.org/10.1016/j.eml.2025.102404​
 
+Pan, Y., Qiang, G., & Sun, B. (2026). Real-time reprogrammable snapping mechanical metamaterial with nonlinear force-displacement responses. International Journal of Mechanical Sciences, 316, 111473. https://doi.org/10.1016/j.ijmecsci.2026.111473​
+
+​
+
+​
 
