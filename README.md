@@ -56,6 +56,8 @@ Our biggest challenge was translating a laboratory mechanism into a realistic su
 
 The result is a research-driven CAD design with a question to test that: **can passive countersnapping provide useful adaptive stiffness in an automotive application for suspension end links?**
 
+## Main Research Articles Used
+
 Ducarme, P., Weber, B., van Hecke, M., & Overvelde, J. T. B. (2025). Exotic mechanical properties enabled by countersnapping instabilities. Proceedings of the National Academy of Sciences, 122(16), e2423301122. https://doi.org/10.1073/pnas.2423301122​
 
 Ranjan, P. S., Sharma, H., Yang, S., & Yang, J. (2025). Passive vibration isolation characteristics of negative extensibility metamaterials. Extreme Mechanics Letters, 80, 102404. https://doi.org/10.1016/j.eml.2025.102404​
